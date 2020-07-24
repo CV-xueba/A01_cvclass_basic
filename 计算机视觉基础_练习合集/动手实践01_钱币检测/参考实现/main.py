@@ -1,4 +1,5 @@
-# Author: Ji Qiu lightning1734@bupt.edu.cn
+# Author: Ji Qiu （BUPT）
+# cv_xueba@163.com
 
 import cv2
 import math
